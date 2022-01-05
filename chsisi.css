@@ -1,3 +1,47 @@
-p{
-  color:white;
-}
+ <style>
+        p{
+        color:white;
+        font-family:"Source sans pro";
+        font-size:15px;
+        display:inline-block;
+        }
+
+
+        .box-img{
+        border-radius: 10px;
+        object-fit:cover;
+        
+        width: 277px;
+        height: 277px;
+        
+        }
+        
+        
+
+
+        .right-side{
+        width:45%;
+        float:right
+        }
+
+
+        .left-side{
+        float:left;
+        width:45%;
+        }
+        
+        .box-div{
+        margin:2.5%;
+        }
+        
+        .master-div{
+        padding-top:5%;
+        padding-bottom:5%;
+        }
+        
+        .box-text{
+        text-align:center;
+        }
+
+
+        </style>
